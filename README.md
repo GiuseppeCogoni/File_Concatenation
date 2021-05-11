@@ -7,6 +7,7 @@ The input files can also have a single or multiple header rows.
 2. Extract the content of the `File_Concatenate-master.zip` file.
 3. Run the batch file by simply double clicking on the `Concatenate.bat` file. \
 User actions will be prompted through the command window.
+4. A `\Test files` folder is also included within the repository for debugging purposes.
 
 ## Author
    Giuseppe Cogoni
