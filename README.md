@@ -13,9 +13,10 @@ User actions will be prompted through the command window.
 - Run the batch file by simply double clicking on the `SpectraConcatenate.bat` file. \
 User actions will be prompted through the command window.
 >Note: \
->*There are some limitations in how many columns can be properly displayed within the same row. \
->This is due to the limited buffer of 8192 bytes for the `echo` DOS command.*
->A more reliable option can be found within the `./Python scripts/SpectraContatenation` folder, running the `SpectraConcat.py` python script.
+>*There are some limitations in how many columns can be properly displayed within the same row.* \
+>*This is due to the limited buffer of 8192 bytes for the `echo` DOS command.*
+>
+>*A more reliable option can be found within the `./Python scripts/SpectraContatenation` folder, running the `SpectraConcat.py` python script.*
 
 ## Author
    Giuseppe Cogoni
